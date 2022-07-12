@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
@@ -11,7 +14,6 @@
     "type": "git",
     "url": "git+https://github.com/beccadoan/zookeeper.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {

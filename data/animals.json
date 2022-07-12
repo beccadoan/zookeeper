@@ -119,6 +119,15 @@
         "goofy"
       ],
       "id": "11"
+    },
+    {
+      "name": "Becca",
+      "species": "Chameleon",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "12"
     }
   ]
 }
