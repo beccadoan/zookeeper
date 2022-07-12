@@ -13,8 +13,6 @@ app.use(express.json())
 app.use('/api', apiRoutes)
 app.use('/', htmlRoutes)
 
-const  { animals } = require('./data/animals.json')
-
 app.listen(PORT, () => {
     console.log(`API server is now on port ${PORT}!`);
 })
